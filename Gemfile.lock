@@ -1,11 +1,10 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    JohnPaulIII_palindrome (0.1.0)
+    JohnPaulIII_palindrome (0.1.1)
     ansi (1.5.0)
     builder (3.2.4)
     ffi (1.15.5)
-    ffi (1.15.5-x64-mingw-ucrt)
     ffi (1.15.5-x64-unknown)
     listen (3.7.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -52,7 +51,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  JohnPaulIII_palindrome (= 0.1.0)
+  JohnPaulIII_palindrome (= 0.1.1)
   minitest (= 5.15.0)
   minitest-reporters (= 1.5.0)
   nokogiri (= 1.13.3)
